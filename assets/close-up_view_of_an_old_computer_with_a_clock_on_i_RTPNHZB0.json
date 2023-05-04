@@ -1,0 +1,19 @@
+{
+  "prompt": "close-up view of an old computer with a clock on its screen, 8-Bit",
+  "negative_prompt": "",
+  "seed": 9547607,
+  "width": 768,
+  "height": 1024,
+  "num_outputs": 1,
+  "num_inference_steps": 50,
+  "guidance_scale": 7.5,
+  "prompt_strength": 0.7,
+  "sampler_name": "ddim",
+  "preserve_init_image_color_profile": false,
+  "use_stable_diffusion_model": "D:\\AI\\EasyDiffusion\\models\\stable-diffusion\\deliberate_v2.safetensors",
+  "use_vae_model": "D:\\AI\\EasyDiffusion\\models\\vae\\vae-ft-mse-840000-ema-pruned.ckpt",
+  "use_hypernetwork_model": null,
+  "use_face_correction": "D:\\AI\\EasyDiffusion\\models\\gfpgan\\GFPGANv1.3.pth",
+  "use_upscale": "D:\\AI\\EasyDiffusion\\models\\realesrgan\\RealESRGAN_x4plus.pth",
+  "upscale_amount": 4
+}

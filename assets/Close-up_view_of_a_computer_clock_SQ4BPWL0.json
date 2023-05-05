@@ -1,0 +1,18 @@
+{
+  "prompt": "Close-up view of a computer clock",
+  "negative_prompt": "",
+  "seed": 31337,
+  "width": 768,
+  "height": 768,
+  "num_outputs": 1,
+  "num_inference_steps": 26,
+  "guidance_scale": 6.5,
+  "sampler_name": "euler_a",
+  "preserve_init_image_color_profile": false,
+  "use_stable_diffusion_model": "D:\\AI\\EasyDiffusion\\models\\stable-diffusion\\deliberate_v2.safetensors",
+  "use_vae_model": "D:\\AI\\EasyDiffusion\\models\\vae\\vae-ft-mse-840000-ema-pruned.ckpt",
+  "use_hypernetwork_model": null,
+  "use_face_correction": null,
+  "use_upscale": "D:\\AI\\EasyDiffusion\\models\\realesrgan\\RealESRGAN_x4plus.pth",
+  "upscale_amount": 4
+}
